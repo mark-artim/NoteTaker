@@ -6,8 +6,8 @@ This application allows a user to add, view and delete notes and store them on a
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Sample of the generated Team page:<br><br>
-![Note Taker Samplae Page](/src/screenshot.jpg)
+Sample of the Note Take application page:<br><br>
+![Note Taker Sample Page](/assets/screenshot.jpg)
 
 ## Table of Contents
 - [Installation](#installation)
