@@ -4,6 +4,8 @@
 ## Description
 This application allows a user to add, view and delete notes and store them on a server. There is a home page which directs to the notes page where 99% of the user activity will take place. 
 
+Link to deployed app: [NoteTakerDeployed](https://floating-eyrie-10493.herokuapp.com/)
+
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Sample of the Note Take application page:<br><br>
